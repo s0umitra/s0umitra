@@ -3,7 +3,10 @@
 
 <img src="https://user-images.githubusercontent.com/44529322/150197845-e0426d84-b594-4c9f-aad3-eed20d8c4d85.png" alt="drawing" width="300"/>
 
-<figcaption style="background-color:black;text-align:center; width:300px"><span style="font-size:30px">&lt; <span style="color:purple">Hello</span> <span style="color:lightgreen">There</span> /&gt;</span></figcaption>
+<figcaption style="background-color:black;text-align:center; width:300px">
+    <font style="font-size:30px">&lt; <font style="color:purple">Hello</font> <font style="color:lightgreen">There</font> /&gt;
+    </font>
+</figcaption>
 
 </div>
 
